@@ -3,6 +3,8 @@
 My current focus in my freetime is on **[psychic-octo-engine](https://github.com/zachgibbens/psychic-octo-engine)**, Half split-tunnel VPN, Half Smart DNS.
 Feel Free to checkout all my other projects & see what inspired them too.
 
+My most recent blog post: This one's a long one. I'm trying to keep at least one New Year's Resolution for 2021. https://zach.gibbens.dev/my-march-new-years-resolution-post
+
 <!--
 **zachgibbens/zachgibbens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
